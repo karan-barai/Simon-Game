@@ -8,3 +8,5 @@ the same color.
 successfully, a light will be added to the end.
 * When you don’t complete a sequence successfully, the SIMON game will
 play a fail sound and display your score. Try to beat your high score!
+# Game link
+https://karan-barai.github.io/Simon-Game/
